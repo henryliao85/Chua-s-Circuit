@@ -8,3 +8,4 @@ In the project, forward Runge-Kutta method of order 4 is used as the differentia
 The solver is written in ``rkm45.m''
 
 ## Result
+[![Watch the video](https://img.youtube.com/vi/YWXEZXhQx2A/0.jpg)](https://youtu.be/YWXEZXhQx2A)
